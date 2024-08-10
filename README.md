@@ -7,3 +7,4 @@ I'm Richard! I'm a 32 years old demographer interested in all population stuff. 
 - 💬 Main courses: Population and Health Inequalities, Data Analysis for Social Sciences, Migration and Environment
 - 📫 How to reach me: richardeamoreira@gmail.com or richardeam@cedeplar.ufmg.br or https://x.com/richard1moreira
 - 😄 Pronouns: He/Him
+- 💻 Hard skills: mainly R, a bit of PowerBI and Python, Excel, statistics and data modelling
